@@ -142,11 +142,7 @@ const firdosh = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Curious-Firdosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
 
 </div>
 
