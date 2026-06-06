@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Firdosh%20Khan&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Dev%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Open%20to%20Work%20%F0%9F%9F%A2&descAlignY=62&descSize=18&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Firdosh%20Khan&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=MERN%20Stack%20%E2%80%A2%20Next.js%20%E2%80%A2%20Full%20Stack%20%2B%20AI%20Integration%20%E2%80%A2%20Open%20to%20Work%20%F0%9F%9F%A2&descAlignY=62&descSize=18&animation=twinkling"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+recruiter+%F0%9F%91%8B+You+just+found+your+next+hire;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;LLMs+%C2%B7+RAG+Pipelines+%C2%B7+LangChain+%C2%B7+LangGraph+%F0%9F%A4%96;I+build+products%2C+not+just+features+%F0%9F%9A%80;Full+Stack+%2B+AI+%E2%80%94+end+to+end%2C+day+one" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+recruiter+%F0%9F%91%8B+You+just+found+your+next+hire;MERN+Stack+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Full+Stack+Dev+who+integrates+AI+into+real+products+%F0%9F%A4%96;I+build+products%2C+not+just+features+%F0%9F%9A%80;Exploring+LLMs+%2B+RAG+%2B+LangChain+%E2%80%94+one+project+at+a+time" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### 🟢 Open to Work — Startup Roles · Full Stack · AI/ML · Remote / India
+### 🟢 Open to Work — Full Stack Dev · MERN Stack · Next.js · AI Integration · Remote / India
 
 </div>
 
@@ -34,7 +34,7 @@
 ```ts
 const firdosh = {
   name      : "Firdosh Khan",
-  role      : "Full Stack Developer + AI/ML Explorer",
+  role      : "Full Stack Developer — MERN · Next.js · AI Integration",
   location  : "India 🇮🇳  —  open to remote worldwide",
   education : "B.Tech CSE, 2026 · CGPA 7.8",
 
@@ -54,8 +54,8 @@ const firdosh = {
     "Move fast without breaking things (usually 😅)",
   ],
 
-  currentlyExploring : ["LangGraph", "Agentic AI", "Vector DBs", "Multi-modal LLMs"],
-  openTo             : "Startup Full Stack · AI Engineer · SDE roles 🚀",
+  currentlyExploring : ["LangGraph", "Agentic AI workflows", "Vector DBs", "AI integration patterns"],
+  openTo             : "Full Stack Dev · MERN Stack · Next.js · Full Stack + AI Integration 🚀",
   available          : "Immediately 🟢",
 };
 ```
@@ -71,7 +71,7 @@ const firdosh = {
 | 💡 Capability | 🛠 How I do it |
 |:---|:---|
 | **Ship full products solo** | React + Node + DB + Deploy — no handoffs needed |
-| **AI features that actually work** | RAG, LangChain, LangGraph, Vector Embeddings |
+| **AI integration in real projects** | Built with RAG, LangChain, Vector Embeddings — actively exploring more |
 | **Secure, scalable APIs** | JWT, RBAC, input validation, standardized error handling |
 | **Real-time features** | WebSockets, Stream SDK, live collaboration |
 | **Production deployments** | Vercel, Render, Railway, CI/CD pipelines |
@@ -156,7 +156,7 @@ const firdosh = {
 
 <div align="center">
 
-> 🟢 **Available immediately** — looking for full-stack or AI-adjacent roles at a startup where I can own things, move fast, and build real products.
+> 🟢 **Available immediately** — looking for Full Stack / MERN / Next.js roles at a startup where I can own things end-to-end, move fast, and ship real products.
 >
 > I reply fast. Don't be a stranger. 👇
 
